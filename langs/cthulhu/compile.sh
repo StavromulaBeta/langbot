@@ -1,6 +1,6 @@
 git clone https://github.com/apache-hb/cthulhu.git
 cd cthulhu
-git checkout 370560eb7c56ea6513bcf8dfbdd11a709f5bbb55
+git checkout 18cb70e5fdd25bc589bb62540b6f6f6556bdba1f
 
 meson build --prefix "$DEPLOYDIR"
 ninja -C build
