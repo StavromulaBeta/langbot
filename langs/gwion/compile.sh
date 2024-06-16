@@ -1,4 +1,4 @@
-git clone https://github.com/Gwion/Gwion.git -b dev
+git clone https://github.com/Gwion/Gwion.git -b master
 cd Gwion
 git checkout dfbd2753b29346712327075fac2579804ac52a6d
 git submodule update --recursive --init
